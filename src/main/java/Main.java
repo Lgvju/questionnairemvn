@@ -1,5 +1,3 @@
-package ru.netology;
-
 public class Main {
     public static void main(String[] args) {
         Post post = new Post(); //post: Post@772
